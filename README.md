@@ -4,6 +4,7 @@
 	<a href="#about">Introdução</a> |
 	<a href="#hamming-code">Código de Hamming</a> |
 	<a href="#implementation">Implementação</a> |
+    <a href="#references">Referências</a> |
 	<a href="#author">Autor</a>
 </div>
 
@@ -175,6 +176,16 @@ sequência:
 <li>decoficarDadoHemming(boolean bits[]);</li>
 <li>decodificarDado(boolean bits[]).</li>
 </ol>
+</p>
+
+---
+
+<h2 id="references">🚀&nbsp; Referências </h2>
+
+<p>
+<b>Explicando a detecção de erros e códigos de correção com Python</b>, ICHI.PRO, 2020. Disponível em: <a href="https://ichi.pro/pt/explicando-a-deteccao-de-erros-e-codigos-de-correcao-com-python-
+209257074447407">https://ichi.pro/pt/explicando-a-deteccao-de-erros-e-codigos-de-correcao-com-python-
+209257074447407</a>. Acesso em: 31 de mar. de 2022.
 </p>
 
 ---
